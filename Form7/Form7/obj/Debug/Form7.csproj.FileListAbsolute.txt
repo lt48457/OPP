@@ -1,0 +1,10 @@
+c:\users\lucija\documents\visual studio 2015\Projects\Form7\Form7\bin\Debug\Form7.exe.config
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\bin\Debug\Form7.exe
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\bin\Debug\Form7.pdb
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\obj\Debug\Form7.csprojResolveAssemblyReference.cache
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\obj\Debug\Form7.Dodavanje_i_uklanjanje_policjaca.resources
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\obj\Debug\Form7.Form1.resources
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\obj\Debug\Form7.Properties.Resources.resources
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\obj\Debug\Form7.csproj.GenerateResource.Cache
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\obj\Debug\Form7.exe
+C:\Users\lucija\documents\visual studio 2015\Projects\Form7\Form7\obj\Debug\Form7.pdb
